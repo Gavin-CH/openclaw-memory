@@ -1,0 +1,19 @@
+# OpenClaw
+.openclaw/
+config/
+skills/
+logs/
+*.log
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (if any)
+*.env
+credentials/
