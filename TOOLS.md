@@ -18,8 +18,9 @@ Things like:
 ```markdown
 ### Obsidian
 
-- **笔记库路径**: `C:\Users\Administrator\Obsidian\我的笔记`
-- 用途: 保存报告、同步到手机
+- **笔记库路径**: `C:\Users\Administrator\ObsidianVault`
+- **坚果云同步**: `https://dav.jianguoyun.com/dav/openclaw`
+- **触发词**: 说"保存"就要保存到这里
 
 - living-room → Main area, 180° wide angle
 - front-door → Entrance, motion-triggered

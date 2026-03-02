@@ -15,6 +15,9 @@
 ## 重要偏好
 - GitHub: Gavin-CH
 - 仓库: openclaw-memory
+- Obsidian 路径: C:\Users\Administrator\ObsidianVault
+- 坚果云同步: https://dav.jianguoyun.com/dav/openclaw
+- 保存关键词: 说"保存"就要保存到 Obsidian
 
 ## 学习总结
 - 2026-03-02: 配置了完整记忆系统，包括 memoryFlush 自动刷新、GitHub 云同步、定时 cron 任务
