@@ -1,0 +1,2 @@
+{"op":"create","entity":{"id":"jobsearch_001","type":"JobSearch","properties":{"status":"active","start_date":"2026-03-03","target_industry":["快消","互联网"],"target_position":["数据分析","数据开发"],"target_location":"广州","priority":"high"},"relations":[],"created":"2026-03-03T21:36:00Z"}}
+{"op":"create","entity":{"id":"person_gavin","type":"Person","properties":{"name":"Gavin","education":"华南师范大学 电子信息专业","graduation_date":"2024-07","work_experience":["比亚迪 研发质量工程师 10个月","比亚迪 信息安全审计工程师 9个月"],"skills":["Python","SQL","办公软件"],"status":" unemployed","job_search_id":"jobsearch_001"}}
