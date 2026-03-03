@@ -20,6 +20,10 @@
 - 保存关键词: 说"保存"就要保存到 Obsidian
 - 深度研究: 说"深度研究"时自动启用 council 多Agent讨论
 
+## 当前状态
+- 正在找工作（2026年3月开始）
+- 目标：广州，数据分析/数据开发，快消/互联网行业
+
 ## 学习总结
 - 2026-03-01: 配置了完整记忆系统，包括 memoryFlush 自动刷新、GitHub 云同步、定时 cron 任务
 - 2026-03-02: 配置了流式输出（partial + block streaming）、安装了 obsidian-skills（obsidian-bases、obsidian-markdown、obsidian-cli）、安装了 browser-use 和 agent-browser 技能、搜索了基金投资相关资源、研究了 Mem0 和 Agent Zero 等记忆系统
