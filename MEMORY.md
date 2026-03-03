@@ -20,9 +20,10 @@
 - 保存关键词: 说"保存"就要保存到 Obsidian
 
 ## 学习总结
-- 2026-03-02: 配置了完整记忆系统，包括 memoryFlush 自动刷新、GitHub 云同步、定时 cron 任务
+- 2026-03-01: 配置了完整记忆系统，包括 memoryFlush 自动刷新、GitHub 云同步、定时 cron 任务
+- 2026-03-02: 配置了流式输出（partial + block streaming）、安装了 obsidian-skills（obsidian-bases、obsidian-markdown、obsidian-cli）、安装了 browser-use 和 agent-browser 技能、搜索了基金投资相关资源、研究了 Mem0 和 Agent Zero 等记忆系统
 
 ## 更新日志
 - 2026-03-01: 初始创建
 - 2026-03-02: 配置记忆系统
-- 2026-03-03: 修复 OpenClaw 更新问题（已确认是最新版本）
+- 2026-03-03: 配置流式输出、安装 Obsidian 技能、配置坚果云同步
